@@ -1,0 +1,38 @@
+2018-12-31T00:24:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\www\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+
+2018-12-31T00:34:53+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:34:56+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:35:00+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:35:01+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:35:12+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:35:15+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:35:21+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING), expecting '{' in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 25
+
+2018-12-31T00:36:23+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 254
+
+2018-12-31T00:36:24+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 254
+
+2018-12-31T00:36:25+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 254
+
+2018-12-31T00:37:45+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:37:53+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:38:24+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:38:24+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:39:06+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:39:12+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:39:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\www\wp-content\themes\ambient\framework\modules\visualcomposer\visual-composer-config.php on line 33
+
+2018-12-31T00:58:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\www\wp-admin\includes\class-wp-filesystem-direct.php on line 76
+

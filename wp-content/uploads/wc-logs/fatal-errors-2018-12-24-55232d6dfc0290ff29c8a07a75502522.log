@@ -1,0 +1,6 @@
+2018-12-24T15:08:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\www\wp-content\plugins\js_composer\include\classes\shortcodes\vc-masonry-media-grid.php on line 2
+
+2018-12-24T18:22:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\www\wp-content\plugins\js_composer\include\templates\editors\partials\add_element_search.tpl.php on line 2
+
+2018-12-24T18:22:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\www\wp-content\plugins\js_composer\include\templates\editors\backend_editor.tpl.php on line 2
+
